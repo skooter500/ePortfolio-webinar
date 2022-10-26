@@ -1,5 +1,6 @@
 # ePortfolio-webinar
 
+- [About me](http://bryanduggan.org)
 - git, github, markdown, stable-difusion
 - My github
     - [Home page](https://github.com/skooter500/)
