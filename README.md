@@ -1,6 +1,6 @@
 # ePortfolio-webinar
 
-- git, github, markdown
+- git, github, markdown, stable-difusion
 - My github
     - [Home page](https://github.com/skooter500/)
     - [A course example](https://github.com/skooter500/OOP-2021-2022)
