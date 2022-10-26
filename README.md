@@ -7,6 +7,7 @@
     - [A course example](https://github.com/skooter500/OOP-2021-2022)
 - Students github
     - [The Assignment Brief](https://github.com/skooter500/OOP-2021-2022/blob/master/assignments.md)
+    - [Template](assignmentreadme.md)
     - [Example](https://github.com/AlexDergach/MusicVisuals)
 - [github classroom](https://classroom.github.com/)
 
